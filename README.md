@@ -6,10 +6,10 @@ I'm a software developer on a mission to construct my own digital realm! Ever si
 
 Now, I'm eager to enter the tech industry and increase my understanding of technologies to solve complex issues within various sectors and create groundbreaking solutions.
 
-"In the world of software, the best way to predict the future is to invent it." - Alan Kay
+<i>"In the world of software, the best way to predict the future is to invent it."</i> - Alan Kay
 <hr>
 
-### 📚 Languages & Frameworks
+### 📚 Languages & Frameworks:
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -24,7 +24,7 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
 <br />
 <br />
 
-### Database & Tools 
+### Database & Tools: 
 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Socket.io" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
@@ -34,7 +34,7 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
 <br />
 <br />
 
-### 🌱 Technologies & Goals I have for 2024 
+#### Technologies & Goals For 2024: 
 
   - [ ] C/C++
   - [ ] AWS/Cloud (Cloud Practitioner)
@@ -42,9 +42,8 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
   - [ ] Docker
   - [ ] Azure
   - [ ] Create a Youtube Channel 
-  - [ ] Drag knee on my ZX6R 🏍 💨
 
 <br>
-<br>
-- 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/isaiasjulio/)
+
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isaiasjulio/)
 
