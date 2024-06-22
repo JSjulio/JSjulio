@@ -29,7 +29,7 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
 <br />
 <br />
 
-#### Technologies & Goals For 2024: 
+#### Goals For 2024: 
 
   - [ ] C/C++
   - [ ] AWS/Cloud (Cloud Practitioner)
