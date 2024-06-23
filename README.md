@@ -31,14 +31,15 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
 <br />
 
 
-#### Goals For 2024: 
+#### Goals For 2024-2025: 
 
-  - [ ] C/C++
+  - [ ] Next.js
   - [ ] Python
   - [ ] JIRA 
   - [ ] Docker
   - [ ] Azure
   - [ ] AWS/Cloud (Cloud Practitioner)
+  - [ ] C/C++
   - [ ] Create a Youtube Channel
   - [ ] Land a job as a Software Developer/Software Tester  
 <br>
