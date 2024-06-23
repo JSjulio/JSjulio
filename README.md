@@ -6,7 +6,7 @@
 
 I'm a software developer on a mission to construct my own digital realm! Ever since I was young, I have been fascinated with technology. I found myself successfully fixing broken GameCube remote wires and questioning what exactly powered beautiful vehicles like the Nissan S14 Kouki. Fast forward, I finished my degree in biology, joined the Army, had a successful career in Pharma, and then deployed. During that deployment, I had the time to revisit my curiosity about technology. While overseas, I began teaching myself HTML and CSS. Upon returning to the U.S., I enrolled in an Army-funded bootcamp where I learned skills in React, Express, Node, and PostgreSQL. I successfully created web applications and even developed an online live video game!
 
-Now, I'm eager to enter the tech industry and increase my understanding of technologies to solve complex issues within various sectors and create groundbreaking solutions.
+Now, I'm eager to enter the tech industry and increase my understanding of technologies to solve complex issues within various sectors and craft groundbreaking innovations along the way.
 
 <i>"In the world of software, the best way to predict the future is to invent it."</i> - Alan Kay
 <hr>
