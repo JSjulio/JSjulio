@@ -41,5 +41,5 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
   - [ ] Land a job as a Software Developer/Software Tester  
 <br>
 
- 📩 Want to connect? ...Send a DM on [LinkedIn](https://www.linkedin.com/in/isaiasjulio/)!
+ 📩 Want to connect? ...Send a DM on [LinkedIn](https://www.linkedin.com/in/isaiasjulio/) !
 
