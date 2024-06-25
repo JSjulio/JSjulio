@@ -38,10 +38,11 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
   - [ ] JIRA 
   - [ ] Docker
   - [ ] Azure
-  - [ ] AWS/Cloud (Cloud Practitioner)
   - [ ] C/C++
+  - [ ] Selenium 
+  - [ ] AWS/Cloud (Cloud Practitioner)
   - [ ] Create a Youtube Channel
-  - [ ] Land a job as a Software Developer/Software Tester  
+  - [ ] Land a job as a QA Software Tester role.  
 <br>
 
  📩 Want to connect? ...Send a DM on [LinkedIn](https://www.linkedin.com/in/isaiasjulio/) !
