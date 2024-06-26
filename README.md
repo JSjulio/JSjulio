@@ -8,7 +8,7 @@ Hello World
 
 I'm Julio - a full stack software developer on a mission to enter the tech industry! Ever since I was young, I have been fascinated with technology. I found myself fixing broken gaming hardware and questioning what exactly powered awesome tech advancements such as the Motorola Razor (dated myself here 🙂), Gamecube, and even high tech automotive vehicles. Fast forward to today, I've earned a Bachelors of Science from from Howard University and completed a Full Stack Bootcamp @ FullStack Academy where I learned modern Web Development lanugaes, frameworks, and tools such as: React, Express, Node.js, PostgreSQL and various others lited below. 
 
-Now, I'm eager to enter the industry as a QA Software Tester and further develop my understanding of how technologies are used to solve complex real-world issues. 
+Now I'm eager to enter the industry as a QA Software Tester and further develop my understanding of how technologies are used to solve complex real-world issues. 
 
 I hope that through sharing this journey I can provide a wealth of knowledge and guidance to anyone with similar life/career goals! 
 
