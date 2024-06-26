@@ -4,9 +4,13 @@
 
 ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
 
-I'm a software developer on a mission to construct my own digital realm! Ever since I was young, I have been fascinated with technology. I found myself successfully fixing broken GameCube remote wires and questioning what exactly powered beautiful vehicles like the Nissan S14 Kouki. Fast forward, I finished my degree in biology, joined the Army, had a successful career in Pharma, and then deployed. During that deployment, I had the time to revisit my curiosity about technology. While overseas, I began teaching myself HTML and CSS. Upon returning to the U.S., I enrolled in an Army-funded bootcamp where I learned skills in React, Express, Node, and PostgreSQL. I successfully created web applications and even developed an online live video game!
+Hello World
 
-Now, I'm eager to enter the industry as a QA Software Tester and further develop my understanding of how technologies are used to solve complex issues within various sectors.
+I'm Julio - a full stack software developer on a mission to enter the tech industry! Ever since I was young, I have been fascinated with technology. I found myself fixing broken gaming hardware and questioning what exactly powered awesome tech advancements such as the Motorola Razor (dated myself here 🙂), Gamecube, and even high tech automotive vehicles. Fast forward to today, I've earned a Bachelors of Science from from Howard University and completed a Full Stack Bootcamp @ FullStack Academy where I learned modern Web Development lanugaes, frameworks, and tools such as: React, Express, Node.js, PostgreSQL and various others lited below. 
+
+Now, I'm eager to enter the industry as a QA Software Tester and further develop my understanding of how technologies are used to solve complex real-world issues. 
+
+I hope that through sharing this journey I can provide a wealth of knowledge and guidance to anyone with similar life/career goals! 
 
 <i>"In the world of software, the best way to predict the future is to invent it."</i> - Alan Kay
 <hr>
@@ -33,8 +37,8 @@ Now, I'm eager to enter the industry as a QA Software Tester and further develop
 
 #### Goals For 2024-2025: 
 
-  - [x] ISTQB Certification
-  - [x] Next.js 
+  - [x] ISTQB Certification (pending)
+  - [x] Next.js Portfolio/Blog (pending)
   - [ ] Python
   - [ ] C/C++
   - [ ] JIRA 
