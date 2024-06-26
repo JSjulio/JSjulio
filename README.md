@@ -37,7 +37,6 @@ Now, I'm eager to enter the tech industry and increase my understanding of techn
   - [ ] Python
   - [ ] JIRA 
   - [ ] Docker
-  - [ ] Azure
   - [ ] C/C++
   - [ ] Selenium 
   - [ ] AWS/Cloud (Cloud Practitioner)
