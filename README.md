@@ -4,13 +4,13 @@
 
 ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
 
-Hello World
+Hello World! 
 
-I'm Julio - a full stack software developer on a mission to enter the tech industry! Ever since I was young, I have been fascinated with technology. I found myself fixing broken gaming hardware and questioning what exactly powered awesome tech advancements such as the Motorola Razor (dated myself here 🙂), Gamecube, and even high tech automotive vehicles. Fast forward to today, I've earned a Bachelors of Science from from Howard University and completed a Full Stack Bootcamp @ FullStack Academy where I learned modern Web Development lanugaes, frameworks, and tools such as: React, Express, Node.js, PostgreSQL and various others lited below. 
+I'm Isaias Julio - a coder on a mission to enter the tech industry as a Quality Assurance Engineer (or QA tester). Ever since I was young, I've been fascinated with magic of technology. I remember growing up, I'd repair my own gaming consoles and phone screens. Repairing these technologies inspired my curiousity for tech becuase I'd wonder how chunks of metal/plastic were able to create my awesome user experiences. Fast forward to today, I've learned the magic - Software Development. I graduated from a Full Stack Academy where I learned modern Web Development technologies such as React, Express, Node.js, PostgreSQL, and various others technologies listed below. 
 
-Now I'm eager to enter the industry as a QA Software Tester and further develop my understanding of how technologies are used to solve complex real-world problems. 
+Now, I am eager to continue to develop my understanding of how technologies are used to solve real-world problems. 
 
-I hope that through sharing this journey I can provide a wealth of knowledge and guidance to anyone with similar life/career goals! 
+I hope that in sharing this journey I can provide a wealth of knowledge to anyone with similar life and career goals. 
 
 <i>"In the world of software, the best way to predict the future is to invent it."</i> - Alan Kay
 <hr>
