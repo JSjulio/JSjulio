@@ -32,5 +32,5 @@ I'm a cleared MS in Cybersecurity graduate with a computer science foundation an
 <br>
 <br>
 
- 📩 Want to connect? ...Send a DM on [LinkedIn](https://www.linkedin.com/in/isaiasjulio/) !
+ 📩: [LinkedIn](https://www.linkedin.com/in/isaiasjulio/)
 
