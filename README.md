@@ -1,16 +1,12 @@
 # Isaias Julio 👨🏾‍💻 = 🪄
 
-**`Code Magician (Full-Stack Web Developer)`**
+**`Cybersecurity Analyst & Full-Stack Web Developer`**
 
 ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
 
 Hello World! 
 
-I'm Isaias Julio - a coder on a mission to enter the tech industry as a Quality Assurance Engineer (or QA tester). Ever since I was young, I've been fascinated with magic of technology. I remember growing up, I'd repair my own gaming consoles and phone screens. Repairing these technologies inspired my curiousity for tech becuase I'd wonder how chunks of metal/plastic were able to create my awesome user experiences. Fast forward to today, I've learned the magic - Software Development. I graduated from a Full Stack Academy where I learned modern Web Development technologies such as React, Express, Node.js, PostgreSQL, and various others technologies listed below. 
-
-Now, I am eager to continue to develop my understanding of how technologies are used to solve real-world problems. 
-
-I hope that in sharing this journey I can provide a wealth of knowledge to anyone with similar life and career goals. 
+I'm a cleared MS in Cybersecurity graduate with a computer science foundation and quality assurance background. I have experiece with Governance, Risk, Compliance (GRC), vulnerability management, and incident response. Currently building upskilling my security analyst skills through various CTFs, certifications, and projects/labs. 
 
 <i>"In the world of software, the best way to predict the future is to invent it."</i> - Alan Kay
 <hr>
