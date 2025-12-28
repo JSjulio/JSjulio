@@ -6,7 +6,7 @@
 
 Hello World! 
 
-I'm a cleared MS in Cybersecurity graduate with a computer science foundation and quality assurance background. I have experiece with Governance, Risk, Compliance (GRC), vulnerability management, and incident response. Currently building upskilling through completion of CTF events, certifications, and projects/labs. 
+I'm a Veteran Cybersecurity Analyst with a MS in Cybersecurity, software development foundation, and quality assurance background. I have experiece with  Governance, Risk, Compliance (GRC), vulnerability management, and incident response. Currently upskilling my cyber skills by completing Capture The Flag events, cyber certifications, and projects/labs. 
 
 <i>"In the world of software, the best way to predict the future is to invent it."</i> - Alan Kay
 <hr>
