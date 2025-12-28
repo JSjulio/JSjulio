@@ -30,19 +30,6 @@ I'm a cleared MS in Cybersecurity graduate with a computer science foundation an
 <img align="left" alt="Socket.io" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 <br />
 
-
-#### Goals For 2024-2025: 
-
-  - [x] ISTQB Certification (pending)
-  - [x] Next.js Portfolio/Blog (pending)
-  - [ ] Python
-  - [ ] C/C++
-  - [ ] JIRA 
-  - [ ] Docker
-  - [ ] Selenium 
-  - [ ] AWS/Cloud (Cloud Practitioner)
-  - [ ] Create a Youtube Channel
-
 <br>
 
  📩 Want to connect? ...Send a DM on [LinkedIn](https://www.linkedin.com/in/isaiasjulio/) !
