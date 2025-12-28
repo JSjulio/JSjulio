@@ -1,6 +1,6 @@
 # Isaias Julio 👨🏾‍💻 = 🪄
 
-**`Cybersecurity Analyst & Full-Stack Web Developer`**
+**`Cleared Cybersecurity Analyst & Full-Stack Web Developer`**
 
 ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
 
