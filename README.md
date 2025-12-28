@@ -29,8 +29,6 @@ I'm a cleared MS in Cybersecurity graduate with a computer science foundation an
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Socket.io" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 <br />
-
-<br>
 <br>
 <br>
 
